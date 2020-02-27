@@ -1,0 +1,13 @@
+
+osquid:UnusedPrivateMethod¨"3Remove this unused private "_fetchAllPages" method.(¯ƒ°úHˆRMAJORZ
+CODE_SMELL
+Qsquid:S1640C"Convert this Map to an EnumMap.(¢§ŞÓøÿÿÿÿH‰RMINORZ
+CODE_SMELL
+Wsquid:S2629Œ"$Invoke method(s) only conditionally.(ûÕãüÿÿÿÿHŠRMAJORZ
+CODE_SMELL
+|squid:S1192¶"FDefine a constant instead of duplicating this literal "pages" 3 times.(ºÕ€ªùÿÿÿÿH‹RCRITICALZ
+CODE_SMELL
+‰squid:S1192x"YUse already-defined constant 'CONFIG_WIKIDB_QUEUE' instead of duplicating its value here.(“”ÂÙHŒRCRITICALZ
+CODE_SMELL
+}squid:S00100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ƒ°úHRMINORZ
+CODE_SMELL

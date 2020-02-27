@@ -1,0 +1,13 @@
+.settings/
+.classpath
+.project
+hs_err_pid*
+target/
+**/src/main/generated/
+.idea/
+db/
+*.iws
+*.ipr
+*.iml
+.vertx
+guide.html

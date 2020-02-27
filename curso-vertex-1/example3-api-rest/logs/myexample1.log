@@ -1,0 +1,62 @@
+14/feb/2018 16:58:35,352- InternalLoggerFactory: Using SLF4J as the default logging framework
+14/feb/2018 16:58:35,357- ResourceLeakDetector: -Dio.netty.leakDetection.level: simple
+14/feb/2018 16:58:35,357- ResourceLeakDetector: -Dio.netty.leakDetection.maxRecords: 4
+14/feb/2018 16:58:35,368- MultithreadEventLoopGroup: -Dio.netty.eventLoopThreads: 8
+14/feb/2018 16:58:35,382- PlatformDependent: -Dio.netty.noUnsafe: false
+14/feb/2018 16:58:35,384- PlatformDependent0: java.nio.Buffer.address: available
+14/feb/2018 16:58:35,385- PlatformDependent0: sun.misc.Unsafe.theUnsafe: available
+14/feb/2018 16:58:35,386- PlatformDependent0: sun.misc.Unsafe.copyMemory: available
+14/feb/2018 16:58:35,386- PlatformDependent0: direct buffer constructor: available
+14/feb/2018 16:58:35,387- PlatformDependent0: java.nio.Bits.unaligned: available, true
+14/feb/2018 16:58:35,387- PlatformDependent0: java.nio.DirectByteBuffer.<init>(long, int): available
+14/feb/2018 16:58:35,389- Cleaner0: java.nio.ByteBuffer.cleaner(): available
+14/feb/2018 16:58:35,389- PlatformDependent: Platform: Windows
+14/feb/2018 16:58:35,389- PlatformDependent: Java version: 8
+14/feb/2018 16:58:35,390- PlatformDependent: sun.misc.Unsafe: available
+14/feb/2018 16:58:35,390- PlatformDependent: -Dio.netty.noJavassist: false
+14/feb/2018 16:58:35,391- PlatformDependent: Javassist: unavailable
+14/feb/2018 16:58:35,391- PlatformDependent: You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+14/feb/2018 16:58:35,392- PlatformDependent: -Dio.netty.tmpdir: C:\Users\jclopezm\AppData\Local\Temp (java.io.tmpdir)
+14/feb/2018 16:58:35,392- PlatformDependent: -Dio.netty.bitMode: 64 (sun.arch.data.model)
+14/feb/2018 16:58:35,392- PlatformDependent: -Dio.netty.noPreferDirect: false
+14/feb/2018 16:58:35,392- PlatformDependent: io.netty.maxDirectMemory: 1888485376 bytes
+14/feb/2018 16:58:35,407- NioEventLoop: -Dio.netty.noKeySetOptimization: false
+14/feb/2018 16:58:35,407- NioEventLoop: -Dio.netty.selectorAutoRebuildThreshold: 512
+14/feb/2018 16:58:35,409- PlatformDependent: org.jctools-core.MpscChunkedArrayQueue: available
+14/feb/2018 16:58:35,454- DnsServerAddresses: Default DNS servers: [/10.228.30.20:53, /172.21.0.20:53] (sun.net.dns.ResolverConfiguration)
+14/feb/2018 16:58:35,458- NetUtil: -Djava.net.preferIPv4Stack: false
+14/feb/2018 16:58:35,459- NetUtil: -Djava.net.preferIPv6Addresses: false
+14/feb/2018 16:58:36,155- NetUtil: Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+14/feb/2018 16:58:36,156- NetUtil: \proc\sys\net\core\somaxconn: 200 (non-existent)
+14/feb/2018 16:58:38,849- PooledByteBufAllocator: -Dio.netty.allocator.numHeapArenas: 8
+14/feb/2018 16:58:38,849- PooledByteBufAllocator: -Dio.netty.allocator.numDirectArenas: 8
+14/feb/2018 16:58:38,849- PooledByteBufAllocator: -Dio.netty.allocator.pageSize: 8192
+14/feb/2018 16:58:38,850- PooledByteBufAllocator: -Dio.netty.allocator.maxOrder: 11
+14/feb/2018 16:58:38,850- PooledByteBufAllocator: -Dio.netty.allocator.chunkSize: 16777216
+14/feb/2018 16:58:38,850- PooledByteBufAllocator: -Dio.netty.allocator.tinyCacheSize: 512
+14/feb/2018 16:58:38,850- PooledByteBufAllocator: -Dio.netty.allocator.smallCacheSize: 256
+14/feb/2018 16:58:38,850- PooledByteBufAllocator: -Dio.netty.allocator.normalCacheSize: 64
+14/feb/2018 16:58:38,850- PooledByteBufAllocator: -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+14/feb/2018 16:58:38,850- PooledByteBufAllocator: -Dio.netty.allocator.cacheTrimInterval: 8192
+14/feb/2018 16:58:38,850- PooledByteBufAllocator: -Dio.netty.allocator.useCacheForAllThreads: true
+14/feb/2018 16:58:38,905- DefaultChannelId: -Dio.netty.processId: 9540 (auto-detected)
+14/feb/2018 16:58:39,696- DefaultChannelId: -Dio.netty.machineId: 18:a9:05:ff:fe:fb:39:78 (auto-detected)
+14/feb/2018 16:58:39,698- ThreadLocalRandom: -Dio.netty.initialSeedUniquifier: 0x773d3e2f382e419a
+14/feb/2018 16:58:39,715- ByteBufUtil: -Dio.netty.allocator.type: pooled
+14/feb/2018 16:58:39,715- ByteBufUtil: -Dio.netty.threadLocalDirectBufferSize: 65536
+14/feb/2018 16:58:39,716- ByteBufUtil: -Dio.netty.maxThreadLocalCharBufferSize: 16384
+14/feb/2018 16:58:39,727- Example3MainVerticle:  started Example3HttpServerVerticle
+14/feb/2018 16:58:39,728- Example3MainVerticle:  started Example3HttpServerVerticle
+14/feb/2018 16:58:39,732- Example3MainVerticle:  started Example3HttpServerVerticle
+14/feb/2018 16:58:39,733- Example3MainVerticle:  started Example3HttpServerVerticle
+14/feb/2018 16:58:39,734- Example3MainVerticle:  started Example3HttpServerVerticle
+14/feb/2018 16:58:39,734- Example3MainVerticle:  started Example3HttpServerVerticle
+14/feb/2018 16:58:39,734- Example3MainVerticle:  started Example3HttpServerVerticle
+14/feb/2018 16:58:39,734- Example3MainVerticle:  started Example3HttpServerVerticle
+14/feb/2018 16:58:39,747- Example3MainVerticle: Deployment verticle  ok Example3HttpServerVerticle 
+14/feb/2018 16:58:39,759- SensorService: Service  verticle.worker.get.sensor started.
+14/feb/2018 16:58:39,755- SensorService: Service  verticle.worker.get.sensor started.
+14/feb/2018 16:58:39,762- SensorService: Service  verticle.worker.get.sensor started.
+14/feb/2018 16:58:39,764- SensorService: Service  verticle.worker.get.sensor started.
+14/feb/2018 16:58:39,765- SensorService: Service  verticle.worker.get.sensor started.
+14/feb/2018 16:58:39,766- Example3MainVerticle: Deployment verticle  ok SensorWorkerGetVerticle 

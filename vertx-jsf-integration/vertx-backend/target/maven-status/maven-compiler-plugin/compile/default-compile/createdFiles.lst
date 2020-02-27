@@ -1,0 +1,6 @@
+com\project\resource\ChatResource.class
+com\project\dto\MessageDTO.class
+com\project\application\ApplicationStart.class
+com\project\entities\MessageEntity.class
+com\project\messagebus\Receiver.class
+com\project\dto\CustomMessageCodec.class

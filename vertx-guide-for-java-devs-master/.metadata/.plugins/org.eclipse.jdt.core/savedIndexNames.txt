@@ -1,0 +1,1 @@
+INDEX VERSION 1.130+C:\workspaces_arquitectura\vertex-worskpaces\vertx-guide-for-java-devs-master\.metadata\.plugins\org.eclipse.jdt.core

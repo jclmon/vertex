@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot-example
+Implementation-Version: 1.2.4.RELEASE
+Built-By: jclopezm
+Implementation-Vendor-Id: org.springframework.boot
+Build-Jdk: 1.8.0_121
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

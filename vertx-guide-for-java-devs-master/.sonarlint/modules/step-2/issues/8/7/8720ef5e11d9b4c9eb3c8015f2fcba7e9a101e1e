@@ -1,0 +1,11 @@
+
+zsquid:S1192¦"IDefine a constant instead of duplicating this literal "Location" 3 times.(ÿæÖ’HRCRITICALZ
+CODE_SMELL
+|squid:S1192U"GDefine a constant instead of duplicating this literal "action" 5 times.(ÃÖ¡øÿÿÿÿHRCRITICALZ
+CODE_SMELL
+{squid:S1192Z"FDefine a constant instead of duplicating this literal "title" 4 times.(™ó‹ùÿÿÿÿHRCRITICALZ
+CODE_SMELL
+squid:S1192."YUse already-defined constant 'CONFIG_WIKIDB_QUEUE' instead of duplicating its value here.(ô§Í„ıÿÿÿÿH‘RCRITICALZ
+CODE_SMELL
+ssquid:S3457D"AFormat specifiers should be used instead of string concatenation.(ƒöóñşÿÿÿÿH’RMAJORZ
+CODE_SMELL

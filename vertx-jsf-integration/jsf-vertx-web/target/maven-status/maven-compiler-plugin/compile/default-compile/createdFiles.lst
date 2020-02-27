@@ -1,0 +1,8 @@
+com\web\chat\models\Message.class
+com\web\chat\utils\ParamUtil.class
+com\web\chat\utils\FacesUtil$FacesContextWrapper.class
+com\web\chat\utils\FacesUtil.class
+com\web\chat\beans\FrontBean.class
+com\web\chat\client\RESTClientBean.class
+com\web\chat\handlers\LogManager.class
+com\web\chat\beans\MessageBean.class

@@ -1,0 +1,22 @@
+{
+  "name": "pruebaBower",
+  "version": "0.0.0",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+	  "angular": "~1.5.8",
+	  "angular-datatables": "latest",
+	  "bootstrap": "latest",
+	  "eonasdan-bootstrap-datetimepicker": "latest",
+	  "datatables.net": "latest",
+	  "datatables.net-dt": "latest",
+	  "jquery": "~2.2.3",
+	  "moment": "latest"
+  }
+}

@@ -1,0 +1,59 @@
+14/feb/2018 16:16:58,575- InternalLoggerFactory: Using SLF4J as the default logging framework
+14/feb/2018 16:16:58,580- ResourceLeakDetector: -Dio.netty.leakDetection.level: simple
+14/feb/2018 16:16:58,580- ResourceLeakDetector: -Dio.netty.leakDetection.maxRecords: 4
+14/feb/2018 16:16:58,591- MultithreadEventLoopGroup: -Dio.netty.eventLoopThreads: 8
+14/feb/2018 16:16:58,603- PlatformDependent: -Dio.netty.noUnsafe: false
+14/feb/2018 16:16:58,604- PlatformDependent0: java.nio.Buffer.address: available
+14/feb/2018 16:16:58,605- PlatformDependent0: sun.misc.Unsafe.theUnsafe: available
+14/feb/2018 16:16:58,606- PlatformDependent0: sun.misc.Unsafe.copyMemory: available
+14/feb/2018 16:16:58,606- PlatformDependent0: direct buffer constructor: available
+14/feb/2018 16:16:58,607- PlatformDependent0: java.nio.Bits.unaligned: available, true
+14/feb/2018 16:16:58,607- PlatformDependent0: java.nio.DirectByteBuffer.<init>(long, int): available
+14/feb/2018 16:16:58,608- Cleaner0: java.nio.ByteBuffer.cleaner(): available
+14/feb/2018 16:16:58,608- PlatformDependent: Platform: Windows
+14/feb/2018 16:16:58,609- PlatformDependent: Java version: 8
+14/feb/2018 16:16:58,609- PlatformDependent: sun.misc.Unsafe: available
+14/feb/2018 16:16:58,609- PlatformDependent: -Dio.netty.noJavassist: false
+14/feb/2018 16:16:58,610- PlatformDependent: Javassist: unavailable
+14/feb/2018 16:16:58,610- PlatformDependent: You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+14/feb/2018 16:16:58,611- PlatformDependent: -Dio.netty.tmpdir: C:\Users\jclopezm\AppData\Local\Temp (java.io.tmpdir)
+14/feb/2018 16:16:58,611- PlatformDependent: -Dio.netty.bitMode: 64 (sun.arch.data.model)
+14/feb/2018 16:16:58,611- PlatformDependent: -Dio.netty.noPreferDirect: false
+14/feb/2018 16:16:58,611- PlatformDependent: io.netty.maxDirectMemory: 1888485376 bytes
+14/feb/2018 16:16:58,628- NioEventLoop: -Dio.netty.noKeySetOptimization: false
+14/feb/2018 16:16:58,628- NioEventLoop: -Dio.netty.selectorAutoRebuildThreshold: 512
+14/feb/2018 16:16:58,629- PlatformDependent: org.jctools-core.MpscChunkedArrayQueue: available
+14/feb/2018 16:16:58,678- DnsServerAddresses: Default DNS servers: [/10.228.30.20:53, /172.21.0.20:53] (sun.net.dns.ResolverConfiguration)
+14/feb/2018 16:16:58,682- NetUtil: -Djava.net.preferIPv4Stack: false
+14/feb/2018 16:16:58,682- NetUtil: -Djava.net.preferIPv6Addresses: false
+14/feb/2018 16:16:59,386- NetUtil: Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+14/feb/2018 16:16:59,387- NetUtil: \proc\sys\net\core\somaxconn: 200 (non-existent)
+14/feb/2018 16:16:59,530- AbstractByteBuf: -Dio.netty.buffer.bytebuf.checkAccessible: true
+14/feb/2018 16:16:59,532- ResourceLeakDetectorFactory: Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@609a7aa3
+14/feb/2018 16:17:00,608- PooledByteBufAllocator: -Dio.netty.allocator.numHeapArenas: 8
+14/feb/2018 16:17:00,608- PooledByteBufAllocator: -Dio.netty.allocator.numDirectArenas: 8
+14/feb/2018 16:17:00,609- PooledByteBufAllocator: -Dio.netty.allocator.pageSize: 8192
+14/feb/2018 16:17:00,609- PooledByteBufAllocator: -Dio.netty.allocator.maxOrder: 11
+14/feb/2018 16:17:00,609- PooledByteBufAllocator: -Dio.netty.allocator.chunkSize: 16777216
+14/feb/2018 16:17:00,609- PooledByteBufAllocator: -Dio.netty.allocator.tinyCacheSize: 512
+14/feb/2018 16:17:00,609- PooledByteBufAllocator: -Dio.netty.allocator.smallCacheSize: 256
+14/feb/2018 16:17:00,610- PooledByteBufAllocator: -Dio.netty.allocator.normalCacheSize: 64
+14/feb/2018 16:17:00,610- PooledByteBufAllocator: -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+14/feb/2018 16:17:00,610- PooledByteBufAllocator: -Dio.netty.allocator.cacheTrimInterval: 8192
+14/feb/2018 16:17:00,610- PooledByteBufAllocator: -Dio.netty.allocator.useCacheForAllThreads: true
+14/feb/2018 16:17:00,658- DefaultChannelId: -Dio.netty.processId: 6688 (auto-detected)
+14/feb/2018 16:17:01,457- DefaultChannelId: -Dio.netty.machineId: 18:a9:05:ff:fe:fb:39:78 (auto-detected)
+14/feb/2018 16:17:01,459- ThreadLocalRandom: -Dio.netty.initialSeedUniquifier: 0xc6b158fd71c0a30c
+14/feb/2018 16:17:01,515- ByteBufUtil: -Dio.netty.allocator.type: pooled
+14/feb/2018 16:17:01,515- ByteBufUtil: -Dio.netty.threadLocalDirectBufferSize: 65536
+14/feb/2018 16:17:01,516- ByteBufUtil: -Dio.netty.maxThreadLocalCharBufferSize: 16384
+14/feb/2018 16:17:01,532- Example2HttpServerVerticle: Our http server is running at 7777
+14/feb/2018 16:17:01,532- Example2HttpServerVerticle: Our http server is running at 7777
+14/feb/2018 16:17:01,533- Example2HttpServerVerticle: Our http server is running at 7777
+14/feb/2018 16:17:01,533- Example2HttpServerVerticle: Our http server is running at 7777
+14/feb/2018 16:17:01,534- Example2HttpServerVerticle: Our http server is running at 7777
+14/feb/2018 16:17:01,535- Example2HttpServerVerticle: Our http server is running at 7777
+14/feb/2018 16:17:01,536- Example2HttpServerVerticle: Our http server is running at 7777
+14/feb/2018 16:17:01,537- Example2HttpServerVerticle: Our http server is running at 7777
+14/feb/2018 16:17:01,537- Example2MainVerticle: Deployment verticle com.vertx.example2.Example2HttpServerVerticle ok 
+14/feb/2018 16:17:01,538- VertxIsolatedDeployer: Succeeded in deploying verticle
